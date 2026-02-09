@@ -14,8 +14,40 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+--
+<div align="center">
+  <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: 1px solid #30363d;">
+    <tr>
+      <td align="center">
+        <br />
+        <a href="https://subhankh.vercel.app">
+          <img src="https://img.shields.io/badge/VISIT_MY_WEBSITE-subhankh.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+        </a>
+        <br /><br />
+        <strong>🚀 Subhan's Digital Workspace</strong>
+        <p>A personal hub for GTU Engineering resources, Algorithms, and UI experiments.</p>
+        <details>
+          <summary><b>🛠️ Interactive Tech Info</b></summary>
+          <p align="left">
+            • <b>Deployment:</b> Vercel & Netlify<br>
+            • <b>Highlights:</b> Flashcard Generator & GTU Syllabus Guides<br>
+            • <b>Vibe:</b> Performance-driven & Clean UI
+          </p>
+        </details>
+        <details>
+          <summary><b>📈 Live Status</b></summary>
+          <img src="https://img.shields.io/website?url=https%3A%2F%2Fsubhankh.vercel.app&up_message=online&up_color=green&style=flat-square" />
+          <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square" />
+        </details>
+        <br />
+        <a href="https://subhankh.vercel.app">
+          <kbd>Check out the live demo →</kbd>
+        </a>
+        <br /><br />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=subhan1606&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
