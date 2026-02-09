@@ -49,5 +49,4 @@
   </table>
 </div>
 ---
-[![](https://visitcount.itsvg.in/api?id=subhan1606&icon=0&color=9)](https://visitcount.itsvg.in)
 
